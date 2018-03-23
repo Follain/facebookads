@@ -1,4 +1,4 @@
-connection: "stitch_vandelay"
+connection: "follain"
 
 # include all the views
 include: "*.view"
