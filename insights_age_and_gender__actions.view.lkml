@@ -1,5 +1,5 @@
 view: ad_actions_by_age_and_gender {
-  sql_table_name: ads_stitch.ads_insights_age_and_gender__actions ;;
+  sql_table_name: facebook_ads_stitch.ads_insights_age_and_gender__actions ;;
   #   - dimension: 1d_click
   #     type: number
   #     sql: ${TABLE}.1d_click

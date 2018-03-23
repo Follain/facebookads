@@ -1,5 +1,5 @@
 view: ad_action_insights {
-  sql_table_name: ads_stitch.ads_insights__actions ;;
+  sql_table_name: facebook_ads_stitch.ads_insights__actions ;;
   #   - dimension: 1d_click
   #     type: number
   #     sql: ${TABLE}.1d_click

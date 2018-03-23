@@ -1,5 +1,5 @@
 view: adcreative {
-  sql_table_name: ads_stitch.adcreative ;;
+  sql_table_name: facebook_ads_stitch.adcreative ;;
 
     dimension: actor_id {
       type: string

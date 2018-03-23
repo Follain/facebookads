@@ -1,5 +1,5 @@
 view: ad_insights_by_placement_and_device {
-  sql_table_name: ads_stitch.ads_insights_placement_and_device ;;
+  sql_table_name: facebook_ads_stitch.ads_insights_platform_and_device ;;
   ## STANDARD FIELDS
 
   dimension: account_id {
@@ -76,7 +76,7 @@ view: ad_insights_by_placement_and_device {
 
   dimension: placement {
     type: string
-    sql: ${TABLE}.placement ;;
+    sql: ${TABLE}.platform_position ;;
   }
 
   dimension: reach {
