@@ -5,6 +5,7 @@ include: "*.view"
 
 # include all the dashboards
 include: "*.dashboard"
+label: "Facebook Ads"
 
 explore: country_coordinates {}
 
