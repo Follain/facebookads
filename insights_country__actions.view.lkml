@@ -1,5 +1,5 @@
 view: ad_actions_by_country {
-  sql_table_name: facebook_ads_stitch.ads_insights_country__actions ;;
+  sql_table_name: ads_stitch.ads_insights_country__actions ;;
   #   - dimension: 1d_click
   #     type: number
   #     sql: ${TABLE}.1d_click

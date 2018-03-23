@@ -1,5 +1,5 @@
 view: campaigns {
-  sql_table_name: facebook_ads_stitch.campaigns ;;
+  sql_table_name: ads_stitch.campaigns ;;
 
   dimension: id {
     primary_key: yes
